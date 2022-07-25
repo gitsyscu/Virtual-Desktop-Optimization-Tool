@@ -49,7 +49,7 @@
   },
   {
     "AppxPackage": "Microsoft.MicrosoftStickyNotes",
-    "VDIState": "Unchanged",
+    "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw",
     "Description": "Note-taking app"
   },
@@ -91,25 +91,25 @@
   },
   {
     "AppxPackage": "Microsoft.Windows.Photos",
-    "VDIState": "Unchanged",
+    "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4",
     "Description": "Photo and video editor"
   },
   {
     "AppxPackage": "Microsoft.WindowsAlarms",
-    "VDIState": "Unchanged",
+    "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-alarms-clock/9wzdncrfj3pr",
     "Description": "A combination app, of alarm clock, world clock, timer, and stopwatch."
   },
   {
     "AppxPackage": "Microsoft.WindowsCalculator",
-    "VDIState": "Unchanged",
+    "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-calculator/9wzdncrfhvn5",
     "Description": "Microsoft Calculator app"
   },
   {
     "AppxPackage": "Microsoft.WindowsCamera",
-    "VDIState": "Unchanged",
+    "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/windows-camera/9wzdncrfjbbg",
     "Description": "Camera app to manage photos and video"
   },
